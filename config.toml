@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Hugo x Bootstrap."
+assetDir = "src"
+
+[params]
+  author = "Shaun Yap"
+  title = "Hugo-Bootstrap boilerplate"
+  description = "once upon a time, there was a great meta description. Unfortunately this isn't it."
